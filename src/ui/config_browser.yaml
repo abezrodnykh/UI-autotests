@@ -1,0 +1,5 @@
+browserType: "chromium"
+launch:
+  channel: "chrome"
+  headless: False
+context:
